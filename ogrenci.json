@@ -1,0 +1,1038 @@
+[{
+        "hID": 1,
+        "name": "Zeynep Aslan",
+        "email": "222095722@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "MUHAMMET BAYKARA",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 2,
+        "name": "Ayse Demir",
+        "email": "212189330@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "MURAT KARABATAK",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 3,
+        "name": "Elif celik",
+        "email": "232096778@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "YUNUS SANTUR",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 4,
+        "name": "Yasin Kara",
+        "email": "232347567@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "ENGIN AVCI",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 5,
+        "name": "Eylül Yilmaz",
+        "email": "222389421@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "FERHAT UCAR",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 6,
+        "name": "Zehra Kaya",
+        "email": "212199420@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "OGUZHAN KATAR",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 7,
+        "name": "İpek Aydin",
+        "email": "212161951@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "YAMAN AKBULUT",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 8,
+        "name": "Ahmet Günes",
+        "email": "202120639@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "RESUL DAS",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 9,
+        "name": "Mehmet Yildiz",
+        "email": "232421237@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "ALEV KAYA",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 10,
+        "name": "Ali Can",
+        "email": "222689255@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "MUHAMMET BAYKARA",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 11,
+        "name": "Sena sahin",
+        "email": "222187570@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "OZAL YILDIRIM",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 12,
+        "name": "Emirhan Öztürk",
+        "email": "222612971@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "MURAT AYDOGAN",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 13,
+        "name": "Elif Yilmaz",
+        "email": "212032258@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "ERKEN TANYILDIZI",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 14,
+        "name": "Yunus Kilic",
+        "email": "232054982@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "VAHTETTİN CEM BAYDOGAN",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 15,
+        "name": "Ezgi Demir",
+        "email": "202095722@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "GAMZE PELIN",
+        "dersSayisi": 7
+    }, {
+        "hID": 51,
+        "name": "Aylin Yilmaz",
+        "email": "232095723@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "OZAL YILDIRIM",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 52,
+        "name": "Murat Gül",
+        "email": "222389425@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "MUHAMMET BAYKARA",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 53,
+        "name": "Ayse Eren",
+        "email": "212199421@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "VAHTETTİN CEM BAYDOGAN",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 54,
+        "name": "Emir celik",
+        "email": "202161951@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "ENGİN AVCI",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 55,
+        "name": "Zeynep Yildirim",
+        "email": "202120634@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "MURAT KARABATAK",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 56,
+        "name": "Cem Demir",
+        "email": "232421239@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "ENGİN AVCI",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 57,
+        "name": "Melis Aktas",
+        "email": "222681255@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "OGUZHAN KATAR",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 58,
+        "name": "Caner Yilmaz",
+        "email": "212129571@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "VAHTETTİN CEM BAYDOGAN",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 59,
+        "name": "Selin sahin",
+        "email": "202098222@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "YAMAN AKBULUT",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 60,
+        "name": "Ali celik",
+        "email": "232221982@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "ALEV KAYA",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 61,
+        "name": "Gizem Kilic",
+        "email": "202431527@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "OZAL YILDIRIM",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 62,
+        "name": "Emre Demir",
+        "email": "222187590@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "YUNUS SANTUR",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 63,
+        "name": "Ayse Yildiz",
+        "email": "232123198@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "MURAT AYDOGAN",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 64,
+        "name": "Mert Kaya",
+        "email": "212032227@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "FERHAT UCAR",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 65,
+        "name": "Zeynep Yilmaz",
+        "email": "202095754@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "MUHAMMET BAYKARA",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 66,
+        "name": "Berkay Karadağ",
+        "email": "232547861@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "VAHTETTİN CEM BAYDOGAN",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 67,
+        "name": "Elif Kaya",
+        "email": "222368541@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "ENGİN AVCI",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 68,
+        "name": "Ahmet Yilmaz",
+        "email": "212301243@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "MURAT KARABATAK",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 69,
+        "name": "Gizem Kaya",
+        "email": "232045613@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "OGUZHAN KATAR",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 70,
+        "name": "Emre Aktas",
+        "email": "202120630@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "RESUL DAS",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 71,
+        "name": "Büsra Yildirim",
+        "email": "222341233@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "ALEV KAYA",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 72,
+        "name": "Mustafa Aydin",
+        "email": "212981234@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "OZAL YILDIRIM",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 73,
+        "name": "Zehra Kilic",
+        "email": "202236987@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "YUNUS SANTUR",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 74,
+        "name": "Mehmet Yilmaz",
+        "email": "232129870@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "MURAT AYDOGAN",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 75,
+        "name": "Selma Kaya",
+        "email": "222569831@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "FERHAT UCAR",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 76,
+        "name": "Cemal Yildirim",
+        "email": "212098654@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "VAHTETTİN CEM BAYDOGAN",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 77,
+        "name": "Zeynep celik",
+        "email": "202180326@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "ENGİN AVCI",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 78,
+        "name": "Emre Kaya",
+        "email": "232351479@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "MUHAMMET BAYKARA",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 79,
+        "name": "Gamze Yilmaz",
+        "email": "222194871@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "OGUZHAN KATAR",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 80,
+        "name": "Mert Karadağ",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "RESUL DAS",
+        "dersSayisi": 7
+    }, {
+        "hID": 81,
+        "name": "Ahmet Yilmaz",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Resul Das",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 82,
+        "name": "Ayse Kaya",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Karabatak",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 83,
+        "name": "Mehmet sahin",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Oguzhan Katar",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 84,
+        "name": "Fatma Demir",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Engin Avci",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 85,
+        "name": "Mustafa Aydin",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Yaman Akbulut",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 86,
+        "name": "Hatice Yildiz",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Aydogan",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 87,
+        "name": "İsmail Kilic",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Vahtettin Cem Baydogan",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 88,
+        "name": "Zehra Yilmaz",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Alev Kaya",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 89,
+        "name": "Ali Demir",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Ozal Yildirim",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 90,
+        "name": "Aylin Aktas",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Gamze Pelin",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 91,
+        "name": "Emre Kaya",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Yunus Santur",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 92,
+        "name": "Hatice Kilic",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Resul Das",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 93,
+        "name": "Mehmet Yildiz",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Karabatak",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 94,
+        "name": "Seda Kaya",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Oguzhan Katar",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 95,
+        "name": "Ahmet Yilmaz",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Engin Avci",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 96,
+        "name": "Ayse Demir",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Yaman Akbulut",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 97,
+        "name": "Murat Yildiz",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Aydogan",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 98,
+        "name": "Hatice Kaya",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Vahtettin Cem Baydogan",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 99,
+        "name": "Ahmet Yilmaz",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Alev Kaya",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 100,
+        "name": "Ayse Yilmaz",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Ozal Yildirim",
+        "dersSayisi": 8
+    }, {
+        "hID": 101,
+        "name": "Ahmet Yilmaz",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Resul Das",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 102,
+        "name": "Ayse Kaya",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Karabatak",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 103,
+        "name": "Mehmet sahin",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Oguzhan Katar",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 104,
+        "name": "Fatma Demir",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Engin Avci",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 105,
+        "name": "Mustafa Aydin",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Yaman Akbulut",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 106,
+        "name": "Hatice Yildiz",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Aydogan",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 107,
+        "name": "İsmail Kilic",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Vahtettin Cem Baydogan",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 108,
+        "name": "Zehra Yilmaz",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Alev Kaya",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 109,
+        "name": "Ali Demir",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Ozal Yildirim",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 110,
+        "name": "Aylin Aktas",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Gamze Pelin",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 111,
+        "name": "Emre Kaya",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Yunus Santur",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 112,
+        "name": "Hatice Kilic",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Resul Das",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 113,
+        "name": "Mehmet Yildiz",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Karabatak",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 114,
+        "name": "Seda Kaya",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Oguzhan Katar",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 115,
+        "name": "Ahmet Yilmaz",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Engin Avci",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 116,
+        "name": "Ayse Demir",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Yaman Akbulut",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 117,
+        "name": "Murat Yildiz",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Aydogan",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 118,
+        "name": "Hatice Kaya",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Vahtettin Cem Baydogan",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 119,
+        "name": "Ahmet Yilmaz",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Alev Kaya",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 120,
+        "name": "Ayse Yilmaz",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Ozal Yildirim",
+        "dersSayisi": 8
+    }, {
+        "hID": 151,
+        "name": "Ali Can",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Resul Das",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 152,
+        "name": "Ayse Yilmaz",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Karabatak",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 153,
+        "name": "Mustafa Demir",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Oguzhan Katar",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 154,
+        "name": "Zeynep sahin",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Engin Avci",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 155,
+        "name": "Mehmet Aydin",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Yaman Akbulut",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 156,
+        "name": "Hatice Yildiz",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Aydogan",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 157,
+        "name": "İsmail Kilic",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Vahtettin Cem Baydogan",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 158,
+        "name": "Zehra Yilmaz",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Alev Kaya",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 159,
+        "name": "Ali Demir",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Ozal Yildirim",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 160,
+        "name": "Aylin Aktas",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Gamze Pelin",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 161,
+        "name": "Emre Kaya",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Yunus Santur",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 162,
+        "name": "Hatice Kilic",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Resul Das",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 163,
+        "name": "Mehmet Yildiz",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Karabatak",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 164,
+        "name": "Seda Kaya",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Oguzhan Katar",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 165,
+        "name": "Ahmet Yilmaz",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Engin Avci",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 166,
+        "name": "Ayse Demir",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Yaman Akbulut",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 167,
+        "name": "Murat Yildiz",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Aydogan",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 168,
+        "name": "Hatice Kaya",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Vahtettin Cem Baydogan",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 169,
+        "name": "Ahmet Yilmaz",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Alev Kaya",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 170,
+        "name": "Ayse Yilmaz",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Ozal Yildirim",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 171,
+        "name": "Ali Can",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Resul Das",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 172,
+        "name": "Ayse Yilmaz",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Karabatak",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 173,
+        "name": "Mustafa Demir",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Oguzhan Katar",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 174,
+        "name": "Zeynep sahin",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Engin Avci",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 175,
+        "name": "Mehmet Aydin",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Yaman Akbulut",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 176,
+        "name": "Hatice Yildiz",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Murat Aydogan",
+        "dersSayisi": 9
+    },
+    {
+        "hID": 177,
+        "name": "İsmail Kilic",
+        "email": "222369847@firat.edu.tr",
+        "sifin": 1,
+        "derece": "lisans",
+        "danismanHocasi": "Vahtettin Cem Baydogan",
+        "dersSayisi": 6
+    },
+    {
+        "hID": 178,
+        "name": "Zehra Yilmaz",
+        "email": "232369847@firat.edu.tr",
+        "sifin": 2,
+        "derece": "lisans",
+        "danismanHocasi": "Alev Kaya",
+        "dersSayisi": 8
+    },
+    {
+        "hID": 179,
+        "name": "Ali Demir",
+        "email": "202369847@firat.edu.tr",
+        "sifin": 3,
+        "derece": "lisans",
+        "danismanHocasi": "Ozal Yildirim",
+        "dersSayisi": 7
+    },
+    {
+        "hID": 180,
+        "name": "Aylin Aktas",
+        "email": "212369847@firat.edu.tr",
+        "sifin": 4,
+        "derece": "lisans",
+        "danismanHocasi": "Gamze Pelin",
+        "dersSayisi": 9
+    }
+
+
+
+
+
+
+]

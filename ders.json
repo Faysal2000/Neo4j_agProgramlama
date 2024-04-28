@@ -1,0 +1,323 @@
+[{
+        "Dkodu": "FIZ111",
+        "Dersin adi": "Fizik-I",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "FiZ105",
+        "Dersin adi": "Fizik Lab. I",
+        "K": 1,
+        "AKTS": 2
+    },
+    {
+        "Dkodu": "MAT161",
+        "Dersin adi": "Matematik-I",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "TRD109",
+        "Dersin adi": "Turk Dili-I",
+        "K": 2,
+        "AKTS": 2
+    },
+    {
+        "Dkodu": "YMH117",
+        "Dersin adi": "ingilizce-I",
+        "K": 2,
+        "AKTS": 2
+    },
+    {
+        "Dkodu": "YMH111",
+        "Dersin adi": "Algoritma ve Programlama - I",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "YMH113",
+        "Dersin adi": "Bilgisayar Bilimlerine Giris",
+        "K": 3,
+        "AKTS": 4
+    },
+    {
+        "Dkodu": "YMH115",
+        "Dersin adi": "Yazilim Muhendisligi Oryantasyonu",
+        "K": 1,
+        "AKTS": 2
+    },
+    {
+        "Dkodu": "FIZ112",
+        "Dersin adi": "Fizik - II",
+        "K": 3,
+        "AKTS": 5
+    }
+
+    ,
+    {
+        "Dkodu": "FiZ106",
+        "Dersin adi": "Fizik Lab. - II",
+        "K": 1,
+        "AKTS": 2
+    },
+    {
+        "Dkodu": "MAT162",
+        "Dersin adi": "Matematik - II",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "TRD110",
+        "Dersin adi": "Turk Dili - II ",
+        "K": 2,
+        "AKTS": 2
+    },
+    {
+        "Dkodu": "YDI108",
+        "Dersin adi": "ingilizce - II",
+        "K": 2,
+        "AKTS": 2
+    },
+    {
+        "Dkodu": "YMH112",
+        "Dersin adi": "Algoritma ve Programlama - II",
+        "K": 4,
+        "AKTS": 7
+    }
+
+    ,
+    {
+        "Dkodu": "YMH114",
+        "Dersin adi": "Yazilim Muhendisliginin Temelleri",
+        "K": 3,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "AIT209",
+        "Dersin adi": "Ataturk ilk. ve ink. Tar. I",
+        "K": 2,
+        "AKTS": 2
+    },
+    {
+        "Dkodu": "iST215",
+        "Dersin adi": "Olasilik ve istatistik",
+        "K": 3,
+        "AKTS": 4
+    },
+    {
+        "Dkodu": "MAT215",
+        "Dersin adi": "Lineer Cebir",
+        "K": 2,
+        "AKTS": 4
+    },
+    {
+        "Dkodu": "YMH211",
+        "Dersin adi": "Ayrik Yapilar",
+        "K": 3,
+        "AKTS": 5
+    },
+    {
+        "Dkodu": "YMH213",
+        "Dersin adi": "Mesleki ingilizce",
+        "K": 2,
+        "AKTS": 3
+    },
+    {
+        "Dkodu": "YMH215",
+        "Dersin adi": "Sayisal Tasarim",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "YMH217",
+        "Dersin adi": "Nesne Tabanli Programlama",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "AIT210",
+        "Dersin adi": "Ataturk ilk. ve ink. Tar. II",
+        "K": 2,
+        "AKTS": 2
+    },
+    {
+        "Dkodu": "MAT220",
+        "Dersin adi": "Diferansiyel Denklemler",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "YMH210",
+        "Dersin adi": "ingilizce iletisim Becerileri",
+        "K": 2,
+        "AKTS": 3
+    },
+    {
+        "Dkodu": "YMH212",
+        "Dersin adi": "Yazilim Gereksinimleri ve Analizi",
+        "K": 4,
+        "AKTS": 5
+    },
+    {
+        "Dkodu": "YMH214",
+        "Dersin adi": "Sayisal Analiz",
+        "K": 3,
+        "AKTS": 4
+    },
+    {
+        "Dkodu": "YMH216",
+        "Dersin adi": "Yazilim Ekonomisi",
+        "K": 2,
+        "AKTS": 3
+    },
+    {
+        "Dkodu": "YMH218",
+        "Dersin adi": "Veri Yapilari",
+        "K": 3,
+        "AKTS": 4
+    },
+    {
+        "Dkodu": "YMH220",
+        "Dersin adi": "ileri Programlama Teknikleri",
+        "K": 2,
+        "AKTS": 3
+    },
+    {
+        "Dkodu": "YMH311",
+        "Dersin adi": "Yazilim Tasarim ve Mimarisi",
+        "K": 3,
+        "AKTS": 3
+    },
+    {
+        "Dkodu": "YMH313",
+        "Dersin adi": "isetim Sistemleri",
+        "K": 4,
+        "AKTS": 4
+    },
+    {
+        "Dkodu": "YMH315",
+        "Dersin adi": "Veritabani Yonetim Sistemleri",
+        "K": 4,
+        "AKTS": 5
+    },
+    {
+        "Dkodu": "YMH317",
+        "Dersin adi": "Algoritma Analizi",
+        "K": 3,
+        "AKTS": 3
+    },
+    {
+        "Dkodu": "YMH319",
+        "Dersin adi": "Programlama Dilleri ",
+        "K": 3,
+        "AKTS": 3
+    },
+    {
+        "Dkodu": "YMH321",
+        "Dersin adi": "Bilgi Sistemleri ve Guvenligi",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "YMH325",
+        "Dersin adi": "Mikroislemciler ve Programlama",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "YMH310",
+        "Dersin adi": "Web Tasarimi ve Programlama",
+        "K": 4,
+        "AKTS": 5
+    },
+    {
+        "Dkodu": "YMH312",
+        "Dersin adi": "Bicimsel Diller ve Otomata Teoris",
+        "K": 4,
+        "AKTS": 5
+    },
+    {
+        "Dkodu": "YMH314",
+        "Dersin adi": "Fonksiyonel Programlama",
+        "K": 4,
+        "AKTS": 5
+    },
+    {
+        "Dkodu": "YMH322",
+        "Dersin adi": "Veri Madenciliği",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "YMH332",
+        "Dersin adi": "Ag Programlama",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "iSL451",
+        "Dersin adi": "Girisimcilik-I",
+        "K": 2,
+        "AKTS": 3
+    },
+    {
+        "Dkodu": "YMH455",
+        "Dersin adi": "Bitirme Projesi",
+        "K": 1,
+        "AKTS": 3
+    },
+    {
+        "Dkodu": "YMH453",
+        "Dersin adi": "Yazilim Kalite Guvencesi ve Testi",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "YMH459",
+        "Dersin adi": "Yazilim Muh. Guncel Konular",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "YMH403",
+        "Dersin adi": "Girisimcilik-II",
+        "K": 2,
+        "AKTS": 3
+    },
+    {
+        "Dkodu": "YMH451",
+        "Dersin adi": "Yapay Zeka ve Uzman Sistemler",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "YMH463",
+        "Dersin adi": "Sayisal Goruntu Isleme Yontemler",
+        "K": 4,
+        "AKTS": 6
+    },
+    {
+        "Dkodu": "YMH411",
+        "Dersin adi": "Is Yeri Egitimi ",
+        "K": 5,
+        "AKTS": 5
+    },
+    {
+        "Dkodu": "YMH417",
+        "Dersin adi": "Is Yeri Egitimi Uygulamasi ",
+        "K": 8,
+        "AKTS": 15
+    },
+    {
+        "Dkodu": "YMH413",
+        "Dersin adi": "Mesleki Uygulama-I ",
+        "K": 1,
+        "AKTS": 5
+    },
+    {
+        "Dkodu": "YMH415",
+        "Dersin adi": "Mesleki Uygulama-II ",
+        "K": 1,
+        "AKTS": 5
+    }
+]
