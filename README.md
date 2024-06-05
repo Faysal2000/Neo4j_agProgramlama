@@ -3,4 +3,3 @@ This Neo4j-based project tracks teachers' educational backgrounds and students' 
 
 
 ![Screenshot 2024-05-22 133858](https://github.com/Faysal2000/Neo4j_agProgramlama/assets/81424486/31c194b8-b5d9-4d7f-b4d7-17c7a3784f4c)
-"C:\Users\Faysal\Pictures\Screenshots\Screenshot 2024-05-22 133858.png"
